@@ -1,1 +1,1 @@
-# nginx-config-for-rails-apps
+# NGINX Config For Rails Apps
